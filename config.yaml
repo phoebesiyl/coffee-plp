@@ -1,0 +1,6 @@
+persist_directory: ./chroma_db
+embedding_model: sentence-transformers/all-MiniLM-L6-v2
+sources_csv: data/sources 2.csv
+retrieval_k: 3
+chunk_size: 1000
+chunk_overlap: 200
