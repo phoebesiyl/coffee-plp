@@ -64,8 +64,4 @@ Relevance	0.90
 Streamlit View	Description
 
 	The main interface includes a “Brew Answer ☕” button, sidebar for source citations, and retrieval confidence display.
-💡 Author
 
-Siying (Phoebe) Li
-MISM-BIDA ’25, Carnegie Mellon University
-📧 siyingl4@andrew.cmu.edu
